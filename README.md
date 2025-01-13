@@ -1,6 +1,6 @@
-# GPT-4o Large Document Preservation
+# GPT-4o Large Document Summarizer
 
-A command-line utility that **preserves and consolidates** extremely large text or Markdown files using [OpenAI’s gpt-4o model](https://platform.openai.com/docs/models). Unlike typical summarizers, this script maximizes information retention, maintaining technical specs, lists, tables, relationships, and more.
+A command-line utility that **preserves, consolidates, and summarizes** extremely large text or Markdown files using [OpenAI’s gpt-4o model](https://platform.openai.com/docs/models). Unlike typical summarizers, this script maximizes information retention, maintaining technical specs, lists, tables, relationships, and more.
 
 ## Features
 
